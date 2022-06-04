@@ -19,7 +19,8 @@ This can be done via Task Manager (CTRL+SHIFT+ESC) -> Services (Tab) and Stop th
 ##### (CVE-2022-30190 - disable msdt)
 ##### Second, unregister msdt (script included as well as manual instructions)
 
-https://github.com/hereticerik/follina-patch/blob/main/unregister-msdt.reg 
+https://github.com/hereticerik/follina-patch/blob/main/unregister-msdt.reg
+ 
 unregister-msdt.reg - Unregister ms-msdt to protect against recent office 0day exploit "Follina".
 
 If you'd like to do this manually without running this registry fix:
